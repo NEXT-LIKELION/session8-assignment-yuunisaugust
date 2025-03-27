@@ -9,5 +9,4 @@ Git에서 두 브랜치를 병합할 때 다음과 같은 오류가 발생할 �
 이 문제를 해결하려면 `--allow-unrelated-histories` 옵션을 사용하여 강제로 병합할 수 있습니다:
 ex) git merge feature1 --allow-unrelated-histories
 
-클래스룸에 다른 레포지토리를 추가하다보니 발생한 문제이니 안내사항 참고하셔서 병합과 conflict merge 하시면 됩니다.
-=======
+클래스룸에 레포지토리를 클래스룸에 다른 레포지토리를 추가하다보니 발생한 문제이니 안내사항 참고하셔서 병합과 conflict merge 하시면 됩니다.
